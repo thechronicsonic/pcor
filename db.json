@@ -1,4 +1,5 @@
-[
+{
+  "customers":[
   {
       "customerId": 7,
       "creationTime": "2018-07-24T15:56:53.4599676",
@@ -105,3 +106,4 @@
       "shipperText": "SpeditionsAuftrags Dummy Text"
   }
 ]
+}
