@@ -1,332 +1,317 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1561.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-  </style>
-</head>
-<body>
-<p class="p1">[</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 1,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-22T18:45:29.377",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "HERBERT PIRCHER Stickerei",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Andreas Pircher",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": "Badlochstraße 26",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": "Im Gorchental",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": "6890",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "Lustenau",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": "Vorarlberg",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": "AT",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": "+43557782075",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": "+436765666523",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": "+4355778207524",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": "office@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": "info@herbertpircher.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": "http://www.herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": "HerbertPircherEmbroideries",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": "HerbertPircherEmbroideries",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 1,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": "net/net",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": "Herbert Pircher Stickerei GmbH",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": "AT21 2001 0002 5865",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": "DOSPAT2D",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": "blubb",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": "THANK YOU!",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 2,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-23T08:43:27.4717062",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "SMP Industries",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Simon Michael Pircher",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": "Augartenstraße 26",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 3,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-23T08:43:55.2553056",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Max Mustermann",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": "Musterstraße 124",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 4,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-24T12:44:50.2197051",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "Rainbow Inc",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Marsupilami Salami",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "New York, NY.",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 5,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-24T12:45:25.1647885",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "Apple Inc.",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Steve Jobs",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "Cupertina CA.",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 6,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-24T15:56:27.1262974",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "Apple Inc.",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Steve Wozniac",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "San Francisco CA.",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 7,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-24T15:56:53.4599676",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "HERBERT PIRCHER Stickerei GmbH &amp; Co. KG",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Carolin Pircher",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "Lustenau",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 8,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-07-24T15:57:16.7789727",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "SMP Industries",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Max Mustermann",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "New York, NY.",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 0,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": null</p>
-<p class="p1"><span class="Apple-converted-space">    </span>},</p>
-<p class="p1"><span class="Apple-converted-space">    </span>{</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"customerId": 9,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"creationTime": "2018-09-04T17:18:00",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"createdBy": "andreas@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"hidden": false,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"companyName": "HERBERT PIRCHER Stickerei GmbH &amp; Co. KG",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"name": "Andreas Pircher",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street1": "Badlochstraße 26",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"street2": "Im Gorchental",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"zipCode": "6890",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"city": "Lustenau",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"state": "Vorarlberg",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"country": "AT",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone1": "+43557782075",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone2": "+436765666523",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"phone3": "+4355778207524",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email1": "office@herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"email2": "info@herbertpircher.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"fax": "+43-5577-812345-1",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"webAddress": "http://www.herpilu.com",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"instagram": "HerbertPircherEmbroideries",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"facebook": "HerbertPircherEmbroideries",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperId": 1,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressId": 1,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"deliveryAddressLine": null,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"paymentCondition": "net/net",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"bankAccountName": "Herbert Pircher Stickerei GmbH",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"accountNumber": "AT21 2001 0002 5865",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"swiftCode": "DOSPAT2D",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatNumber": "ATU36360905",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"vatRate": 20,</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"note": "Interne Notiz blabla bla",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"invoiceText": "Rechnungstext Dummy",</p>
-<p class="p1"><span class="Apple-converted-space">        </span>"shipperText": "SpeditionsAuftrags Dummy Text"</p>
-<p class="p1"><span class="Apple-converted-space">    </span>}</p>
-<p class="p1">]</p>
-</body>
-</html>
+[
+  {
+      "customerId": 1,
+      "creationTime": "2018-07-22T18:45:29.377",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "HERBERT PIRCHER Stickerei",
+      "name": "Andreas Pircher",
+      "street1": "Badlochstraße 26",
+      "street2": "Im Gorchental",
+      "zipCode": "6890",
+      "city": "Lustenau",
+      "state": "Vorarlberg",
+      "country": "AT",
+      "phone1": "+43557782075",
+      "phone2": "+436765666523",
+      "phone3": "+4355778207524",
+      "email1": "office@herpilu.com",
+      "email2": "info@herbertpircher.com",
+      "fax": null,
+      "webAddress": "http://www.herpilu.com",
+      "instagram": "HerbertPircherEmbroideries",
+      "facebook": "HerbertPircherEmbroideries",
+      "shipperId": 1,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": "net/net",
+      "bankAccountName": "Herbert Pircher Stickerei GmbH",
+      "accountNumber": "AT21 2001 0002 5865",
+      "swiftCode": "DOSPAT2D",
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": "blubb",
+      "invoiceText": "THANK YOU!",
+      "shipperText": null
+  },
+  {
+      "customerId": 2,
+      "creationTime": "2018-07-23T08:43:27.4717062",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "SMP Industries",
+      "name": "Simon Michael Pircher",
+      "street1": "Augartenstraße 26",
+      "street2": null,
+      "zipCode": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 3,
+      "creationTime": "2018-07-23T08:43:55.2553056",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": null,
+      "name": "Max Mustermann",
+      "street1": "Musterstraße 124",
+      "street2": null,
+      "zipCode": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 4,
+      "creationTime": "2018-07-24T12:44:50.2197051",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "Rainbow Inc",
+      "name": "Marsupilami Salami",
+      "street1": null,
+      "street2": null,
+      "zipCode": null,
+      "city": "New York, NY.",
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 5,
+      "creationTime": "2018-07-24T12:45:25.1647885",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "Apple Inc.",
+      "name": "Steve Jobs",
+      "street1": null,
+      "street2": null,
+      "zipCode": null,
+      "city": "Cupertina CA.",
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 6,
+      "creationTime": "2018-07-24T15:56:27.1262974",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "Apple Inc.",
+      "name": "Steve Wozniac",
+      "street1": null,
+      "street2": null,
+      "zipCode": null,
+      "city": "San Francisco CA.",
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 7,
+      "creationTime": "2018-07-24T15:56:53.4599676",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "HERBERT PIRCHER Stickerei GmbH & Co. KG",
+      "name": "Carolin Pircher",
+      "street1": null,
+      "street2": null,
+      "zipCode": null,
+      "city": "Lustenau",
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 8,
+      "creationTime": "2018-07-24T15:57:16.7789727",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "SMP Industries",
+      "name": "Max Mustermann",
+      "street1": null,
+      "street2": null,
+      "zipCode": null,
+      "city": "New York, NY.",
+      "state": null,
+      "country": null,
+      "phone1": null,
+      "phone2": null,
+      "phone3": null,
+      "email1": null,
+      "email2": null,
+      "fax": null,
+      "webAddress": null,
+      "instagram": null,
+      "facebook": null,
+      "shipperId": 0,
+      "deliveryAddressId": 0,
+      "deliveryAddressLine": null,
+      "paymentCondition": null,
+      "bankAccountName": null,
+      "accountNumber": null,
+      "swiftCode": null,
+      "vatNumber": null,
+      "vatRate": 0,
+      "note": null,
+      "invoiceText": null,
+      "shipperText": null
+  },
+  {
+      "customerId": 9,
+      "creationTime": "2018-09-04T17:18:00",
+      "createdBy": "andreas@herpilu.com",
+      "hidden": false,
+      "companyName": "HERBERT PIRCHER Stickerei GmbH & Co. KG",
+      "name": "Andreas Pircher",
+      "street1": "Badlochstraße 26",
+      "street2": "Im Gorchental",
+      "zipCode": "6890",
+      "city": "Lustenau",
+      "state": "Vorarlberg",
+      "country": "AT",
+      "phone1": "+43557782075",
+      "phone2": "+436765666523",
+      "phone3": "+4355778207524",
+      "email1": "office@herpilu.com",
+      "email2": "info@herbertpircher.com",
+      "fax": "+43-5577-812345-1",
+      "webAddress": "http://www.herpilu.com",
+      "instagram": "HerbertPircherEmbroideries",
+      "facebook": "HerbertPircherEmbroideries",
+      "shipperId": 1,
+      "deliveryAddressId": 1,
+      "deliveryAddressLine": null,
+      "paymentCondition": "net/net",
+      "bankAccountName": "Herbert Pircher Stickerei GmbH",
+      "accountNumber": "AT21 2001 0002 5865",
+      "swiftCode": "DOSPAT2D",
+      "vatNumber": "ATU36360905",
+      "vatRate": 20,
+      "note": "Interne Notiz blabla bla",
+      "invoiceText": "Rechnungstext Dummy",
+      "shipperText": "SpeditionsAuftrags Dummy Text"
+  }
+]
